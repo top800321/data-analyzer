@@ -3,6 +3,7 @@
 int main () {
 	first();
 	first();
-
+	second();
+	second();
 	return 0;
 }
