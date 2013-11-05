@@ -13,3 +13,4 @@ commit2
 }
 
 hotfix1(){}
+hotfix2(){}
