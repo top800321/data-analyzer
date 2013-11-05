@@ -11,6 +11,9 @@ commit3
 commit2
 ---------------------->
   int *data = fetchData();
+<---------------------  
+hotfix~~~
+---------------------->
   processData(data);
   showData(data);
   return 0;
