@@ -18,3 +18,6 @@ hotfix~~~
   showData(data);
   return 0;
 }
+
+hotfix1(){}
+hotfix2(){}
